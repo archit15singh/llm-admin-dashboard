@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+starlette-admin
+tortoise-orm
+asyncpg
+python-dotenv
