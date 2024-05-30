@@ -1,6 +1,6 @@
 fastapi
 uvicorn
-starlette-admin
+fastapi-admin
 tortoise-orm
 asyncpg
 python-dotenv
